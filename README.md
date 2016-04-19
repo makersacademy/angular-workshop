@@ -1,13 +1,14 @@
 # Basic angular app
 
-This is a basic setup of an angular app with karma/protractor for testing.
+This is a basic setup of an angular app using bower to install angular.
 
 ## Installation
 
 * Fork the repo
-* Rename the app name in the **package.json** and the **bower.json**
-* Run `npm install`
-* Run tests using `npm test`
+* Run `node -v`, if you don't get anything run `brew install node`
+* Install bower using `npm install -g bower`
+* Run `bower install`
+* Open the `index.html` in a browser by running `open app/index.html`
 
 ## Exercise
 
