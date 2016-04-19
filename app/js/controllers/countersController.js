@@ -5,5 +5,5 @@ countersApp.controller("countersCtrl", function(){
 
   self.increment = function() {
     self.count++;
-  }
+  };
 });
