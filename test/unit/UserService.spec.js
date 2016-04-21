@@ -32,7 +32,7 @@ describe('UserService', function() {
     httpBackend.flush();
   });
 
-  xit('it fetches the first user\'s login from GitHub using a callback', function() {
+  it('it fetches the first user\'s login from GitHub using a callback', function() {
     UserService.fetchLoginWithCallback(function(login){
       expect(login).toEqual("pingu");
     });
