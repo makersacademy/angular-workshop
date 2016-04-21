@@ -1,1 +1,1 @@
-var yourApp = angular.module('yourApp', []);
+var promiseApp = angular.module('promiseApp', []);

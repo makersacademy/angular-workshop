@@ -1,10 +1,25 @@
-# Basic angular app
+# Callbacks/Promises example
 
-This is a basic setup of an angular app with karma/protractor for testing.
+This example is to explain callbacks/promises
 
 ## Installation
 
-* Fork the repo
-* Rename the app name in the **package.json** and the **bower.json**
-* Run `npm install`
-* Run tests using `npm test`
+* Run `npm install` if you're not setup
+* Run tests using `karma start test/karma.conf.js`
+
+## Exercises
+
+* Explain why the first test returns undefined
+* Pass the promises test
+* Pass the callback test. If you need some more help with callbacks, download
+  [this
+gist](https://gist.github.com/makers-dev/e71f0f3a7d286020d943a807ef0af3e2) and fill in the TODOs
+
+
+## Resources
+
+* :pill:
+  [Promises](https://github.com/makersacademy/course/blob/master/pills/js_promises.md)
+* [The extra callback
+  exercise](https://gist.github.com/makers-dev/e71f0f3a7d286020d943a807ef0af3e2)
+
