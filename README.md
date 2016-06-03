@@ -7,7 +7,7 @@ Goal of this workshop is:
 * Describe why it is important to keep concerns seperated
 * Explain how to use Factories/Services to keep concerns seperated
 * Extract logic from a controller into Factories/Services
-* Explain why this process is an example of writing [well-crafted software](http://manifesto.softwarecraftsmanship.org/)
+* Explain why this process of seperating concerns is an example of writing [well-crafted software](http://manifesto.softwarecraftsmanship.org/)
 
 ## Installation
 
